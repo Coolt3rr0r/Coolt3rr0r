@@ -1,8 +1,8 @@
 # GitHub Stats
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Its-LALOL&hide=contribs&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Coolt3rr0r&hide=contribs&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Its-LALOL&theme=tokyonight&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Coolt3rr0r&theme=tokyonight&layout=compact)
 
 # Sociаls
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/terrorself)
